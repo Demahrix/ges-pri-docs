@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkges_pri_documentation=self.webpackChunkges_pri_documentation||[]).push([["1809"],{7132(e){e.exports=JSON.parse('{"metadata":{"permalink":"/ges-pri-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

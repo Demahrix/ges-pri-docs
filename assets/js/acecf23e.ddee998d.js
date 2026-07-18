@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkges_pri_documentation=self.webpackChunkges_pri_documentation||[]).push([["3220"],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/ges-pri-docs/blog","blogTitle":"Blog","authorsListPath":"/ges-pri-docs/blog/authors"}')}}]);
