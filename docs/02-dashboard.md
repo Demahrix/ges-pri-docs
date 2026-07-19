@@ -11,7 +11,7 @@ Le tableau de bord est la page d'accueil de la plateforme. Il offre une vue d'en
 
 Il est composé de quatre zones, empilées du haut vers le bas.
 
-![Vue du dashboard](/img/1.png)
+![Vue du dashboard](/img/1.jpg)
 
 ## 1. Indicateurs globaux
 

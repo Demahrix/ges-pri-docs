@@ -12,6 +12,8 @@ slug: /pris/nouveau
 
 Le formulaire reprend le contenu de la fiche papier « Fiche de PRI ». Il est directement rattaché à une fiche d'identification (`:identification-id`), dont certaines informations sont reprises automatiquement.
 
+![Vue de la fiche PRI](/img/31.png)
+
 ## Informations d'en-tête
 
 - ID unique du PRI (généré automatiquement)
@@ -55,10 +57,10 @@ Tableau des actions planifiées, avec une ligne par action et les colonnes suiva
 
 Un bouton permet d'ajouter autant de lignes que nécessaire.
 
-## Signatures
-
-La fiche prévoit trois signatures (numérisées ou noms saisis, selon l'implémentation) : **Parent / tuteur**, **Facilitateur**, **Responsable**, avec le nom et prénom de chaque signataire.
-
 ## Enregistrement
 
-Un bouton **Enregistrer** (création) ou **Mettre à jour** (modification) valide le PRI. Un PRI nouvellement créé est à l'état **En attente** jusqu'à validation ou rejet par un Superviseur (voir [Plans PRI](./pris.md)).
+Un bouton **Enregistrer** (création) ou **Mettre à jour** (modification) valide le PRI. Un PRI nouvellement créé est à l'état **En attente** jusqu'à validation ou rejet par un Superviseur (voir [Plans PRI](./04-pris.md)).
+
+:::info[Notification par e-mail]
+Lors de la création d'un PRI, un e-mail est automatiquement envoyé aux utilisateurs ayant le rôle **Superviseur** dans la structure concernée, pour les informer qu'un PRI attend leur validation.
+:::

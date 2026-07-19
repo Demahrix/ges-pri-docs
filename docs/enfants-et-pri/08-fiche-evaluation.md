@@ -12,6 +12,12 @@ slug: /evaluations/nouveau
 
 Le formulaire reprend le contenu de la fiche papier « Fiche d'évaluation du PRI ». Il est directement rattaché à un PRI (`:pri-id`), dont certaines informations sont reprises automatiquement.
 
+:::info[Prérequis]
+Une évaluation ne peut être créée que pour un PRI à l'état **Validé**. Le bouton « Faire une évaluation » n'est proposé que dans ce cas (voir [Plans PRI](./04-pris.md)).
+:::
+
+![Vue de la page fiche d'evaluation](/img/35.png)
+
 ## Informations d'en-tête
 
 - ID unique de l'évaluation (généré automatiquement)

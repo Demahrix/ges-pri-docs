@@ -1,0 +1,8 @@
+{
+  "label": "Hors ligne",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Saisie de fiches d'identification sur le terrain sans connexion internet, puis synchronisation avec la plateforme."
+  }
+}

@@ -7,7 +7,9 @@ slug: /identifications/details
 
 # Détail d'une fiche d'identification (`/identifications/details/:id`)
 
-Cette page affiche l'ensemble des informations saisies pour une fiche d'identification, organisées selon les 6 parties du formulaire (voir [Créer / Modifier une identification](./fiche-identification.md)).
+Cette page affiche l'ensemble des informations saisies pour une fiche d'identification, organisées selon les 6 parties du formulaire (voir [Créer / Modifier une identification](./02-fiche-identification.md)).
+
+![Vue de la page Identifications](/img/28.png)
 
 ## Bouton « Actions »
 

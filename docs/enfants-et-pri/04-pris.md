@@ -13,6 +13,13 @@ Cette page liste l'ensemble des Plans de Réadaptation Individuels (PRI) créés
 L'accès à cette page nécessite la permission **Voir les PRI** (`READ_PRI`).
 :::
 
+:::info[Visibilité selon le rôle]
+Un utilisateur ayant le rôle **Superviseur** ou **Facilitateur** ne voit que les fiches de la structure à laquelle il est rattaché. Un utilisateur **Admin** ou **Viewer** voit en principe l'ensemble des fiches de la plateforme, mais si son compte est lui aussi affecté à une structure, la même restriction s'applique.
+:::
+
+![Vue de la page PRI](/img/29.png)
+![Vue de la page PRI](/img/30.png)
+
 ## En-tête de la page
 
 - **Champ de recherche** : recherche un bénéficiaire par son nom.
@@ -50,11 +57,11 @@ Contrairement à la page Identifications, un PRI se crée toujours **à partir d
 
 ### Actions disponibles
 
-- **Voir** : ouvre la [page de détail](./details-pri.md) du PRI.
+- **Voir** : ouvre la [page de détail](./06-details-pri.md) du PRI.
 - **Modifier** : ouvre le formulaire pré-rempli.
 - **Supprimer** : supprime le PRI.
 - **Valider** — *visible uniquement pour le rôle Superviseur* : fait passer l'état du PRI à « Validé ».
 - **Rejeter** — *visible uniquement pour le rôle Superviseur* : fait passer l'état du PRI à « Rejeté ».
-- **Faire une évaluation** : ouvre le formulaire de création d'une [évaluation](./fiche-evaluation.md) pour ce PRI.
+- **Faire une évaluation** : ouvre le formulaire de création d'une [évaluation](./08-fiche-evaluation.md) pour ce PRI. Cette action n'est disponible que si le PRI est à l'état **Validé** — une évaluation ne peut pas être créée pour un PRI en attente ou rejeté.
 - **Voir la fiche d'identification** : ouvre la fiche d'identification du bénéficiaire concerné.
 - **Voir l'évaluation** : ouvre l'évaluation associée au PRI, si elle existe.

@@ -9,6 +9,8 @@ slug: /pris/details
 
 Cette page affiche l'ensemble des informations du Plan de Réadaptation Individuel : en-tête, les cinq sections (Analyse des problèmes, Facteurs favorisants, Projets de la personne/famille, Identification et priorisation des besoins pour le semestre, Élaboration du processus d'accompagnement) et les signatures.
 
+![Vue de la fiche PRI](/img/32.png)
+
 ## Bouton « Actions »
 
 - **Voir** *(déjà sur cette page)*

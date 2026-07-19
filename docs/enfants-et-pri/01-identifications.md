@@ -9,17 +9,21 @@ slug: /identifications
 
 Cette page liste l'ensemble des fiches d'identification des bénéficiaires enregistrées sur la plateforme.
 
-![Vue de la page Identifications](/img/2.png)
-![Vue de la page Identifications](/img/3.png)
-
 :::info[Permission requise]
 L'accès à cette page nécessite la permission **Voir les identifications** (`READ_IDENTIFICATION`).
 :::
 
+:::info[Visibilité selon le rôle]
+Un utilisateur ayant le rôle **Superviseur** ou **Facilitateur** ne voit que les fiches de la structure à laquelle il est rattaché. Un utilisateur **Admin** ou **Viewer** voit en principe l'ensemble des fiches de la plateforme, mais si son compte est lui aussi affecté à une structure, la même restriction s'applique.
+:::
+
+![Vue de la page Identifications](/img/2.png)
+![Vue de la page Identifications](/img/3.png)
+
 ## En-tête de la page
 
 - **Champ de recherche** : recherche un bénéficiaire par son nom.
-- **Bouton « Nouveau »** : ouvre le formulaire de création d'une [nouvelle fiche d'identification](./fiche-identification.md).
+- **Bouton « Nouveau »** : ouvre le formulaire de création d'une [nouvelle fiche d'identification](./02-fiche-identification.md).
 - **Bouton « Filtrer »** : ouvre une fenêtre modale avec les critères suivants :
   - Structure
   - Commune
@@ -53,7 +57,7 @@ L'accès à cette page nécessite la permission **Voir les identifications** (`R
 
 ### Actions disponibles
 
-- **Voir** : ouvre la [page de détail](./details-identification.md) de la fiche.
+- **Voir** : ouvre la [page de détail](./03-details-identification.md) de la fiche.
 - **Modifier** : ouvre le formulaire pré-rempli pour mettre à jour la fiche.
 - **Supprimer** : supprime la fiche d'identification.
-- **Ajouter un PRI** : ouvre le formulaire de création d'un [Plan PRI](./fiche-pri.md) pour ce bénéficiaire.
+- **Ajouter un PRI** : ouvre le formulaire de création d'un [Plan PRI](./05-fiche-pri.md) pour ce bénéficiaire.

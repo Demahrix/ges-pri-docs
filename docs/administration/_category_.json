@@ -1,0 +1,8 @@
+{
+  "label": "Administration",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Gestion des structures, des utilisateurs et des types d'handicap de la plateforme."
+  }
+}

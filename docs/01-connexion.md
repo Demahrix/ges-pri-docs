@@ -7,9 +7,9 @@ slug: /connexion
 
 # Se connecter à la plateforme
 
-L'accès à la plateforme se fait via un écran de connexion, à l'aide d'un **email** et d'un **mot de passe**. Il n'existe pas d'auto-inscription : chaque compte est créé par un administrateur depuis [Configuration › Administration › Utilisateurs](./configuration/administration.md).
+L'accès à la plateforme se fait via un écran de connexion, à l'aide d'un **email** et d'un **mot de passe**. Il n'existe pas d'auto-inscription : chaque compte est créé par un administrateur depuis [Configuration › Administration › Utilisateurs](./administration/02-utilisateurs.md).
 
-![Écran de connexion](/img/connexion.png)
+![Écran de connexion](/img/connexion.jpg)
 
 ## Étapes
 
@@ -18,7 +18,7 @@ L'accès à la plateforme se fait via un écran de connexion, à l'aide d'un **e
 3. Saisissez votre **mot de passe**.
 4. Cliquez sur **Se connecter**.
 
-Une fois connecté, vous êtes redirigé vers le [Tableau de bord](./dashboard.md). Le menu affiché est adapté automatiquement selon votre rôle et vos permissions (voir [Introduction](./introduction.md)).
+Une fois connecté, vous êtes redirigé vers le [Tableau de bord](./02-dashboard.md). Le menu affiché est adapté automatiquement selon votre rôle et vos permissions (voir [Introduction](./00-introduction.md)).
 
 ## Identifiants incorrects
 
@@ -26,7 +26,7 @@ Si l'email ou le mot de passe saisi est incorrect, un message d'erreur s'affiche
 
 ## Je n'ai pas encore de compte
 
-Contactez votre administrateur : il créera votre compte, en vous attribuant un rôle (Facilitateur, Superviseur, Administrateur…) et une structure de rattachement, depuis la page [Utilisateurs](./configuration/administration.md).
+Contactez votre administrateur : il créera votre compte, en vous attribuant un rôle (Facilitateur, Superviseur, Administrateur…) et une structure de rattachement, depuis la page [Utilisateurs](./administration/02-utilisateurs.md).
 
 {/*
 ## Changer son mot de passe

@@ -1,0 +1,8 @@
+{
+  "label": "Journaux d'audit",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "Historique des actions effectuées sur la plateforme et des connexions des utilisateurs, réservé aux comptes disposant du droit d'audit."
+  }
+}

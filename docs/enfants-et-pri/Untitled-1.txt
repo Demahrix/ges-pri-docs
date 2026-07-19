@@ -1,0 +1,6 @@
+
+
+Sur les pages listes des identifications, pri et evaluations
+Je veux ajouter le faite qu'un utilisateur de role SUPERVISEUR et FACILITATEUR ne voit que les donnees de leurs structures pour les utilisateur ADMIN et VIEWER c'est le cas aussi lorsqu'on les affectes dans une structure.
+
+Et aussi ajouter la fiche pri que lorsqu'on de la creation d'un PRI un email est envoye aux SUPERVISEUR de la structure pour notifier proceder 

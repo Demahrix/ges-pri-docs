@@ -9,6 +9,8 @@ slug: /evaluations/details
 
 Cette page affiche l'ensemble des informations de l'évaluation : en-tête et tableau des objectifs / activités prévues / activités réalisées / résultats atteints / observations.
 
+![Vue de la page details d'evaluation](/img/36.png)
+
 ## Bouton « Actions »
 
 - **Voir** *(déjà sur cette page)*

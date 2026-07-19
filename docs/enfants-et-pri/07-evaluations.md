@@ -13,6 +13,13 @@ Cette page liste l'ensemble des évaluations de PRI réalisées sur la plateform
 L'accès à cette page nécessite la permission **Voir les évaluations** (`READ_EVALUATION`).
 :::
 
+:::info[Visibilité selon le rôle]
+Un utilisateur ayant le rôle **Superviseur** ou **Facilitateur** ne voit que les fiches de la structure à laquelle il est rattaché. Un utilisateur **Admin** ou **Viewer** voit en principe l'ensemble des fiches de la plateforme, mais si son compte est lui aussi affecté à une structure, la même restriction s'applique.
+:::
+
+![Vue de la page evaluation](/img/33.png)
+![Vue de la page evaluation](/img/34.png)
+
 ## En-tête de la page
 
 - **Champ de recherche** : recherche un bénéficiaire par son nom.
@@ -50,7 +57,7 @@ Comme pour les PRI, une évaluation se crée toujours **à partir d'un PRI exist
 
 ### Actions disponibles
 
-- **Voir** : ouvre la [page de détail](./details-evaluation.md) de l'évaluation.
+- **Voir** : ouvre la [page de détail](./08-fiche-evaluation.md) de l'évaluation.
 - **Modifier** : ouvre le formulaire pré-rempli.
 - **Supprimer** : supprime l'évaluation.
 - **Voir la fiche d'identification** : ouvre la fiche d'identification du bénéficiaire concerné.
